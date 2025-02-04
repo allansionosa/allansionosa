@@ -3,11 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate developer working on exciting projects and constantly learning new technologies.
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Metro Calaca Hospital Corp.**
-- 🌱 I’m learning **Next.js, TypeScript, Tailwind CSS, and Ant Design**
-- 💻 Experienced in **React, Next.js, Vite, CKEditor, Tiptap, and more**
+- 🔭 I’m currently working at **Comlogik Business Systems Inc.**
+- 💻 Experienced in **React, Next.js, Vite, CKEditor, Tiptap,  TypeScript, Tailwind CSS, Ant Design shadcn/ui and more**
 - 🤝 I’m open to collaborating on **open-source projects and web applications**
-- 💬 Ask me about **full-stack development, UI/UX, and software best practices**
 
 ### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -18,10 +16,11 @@ Welcome to my GitHub profile! I'm a passionate developer working on exciting pro
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![CKEditor](https://img.shields.io/badge/CKEditor-36A3F7?style=for-the-badge&logo=ckeditor5&logoColor=white)
 ![Tiptap](https://img.shields.io/badge/Tiptap-E11D48?style=for-the-badge&logo=tiptap&logoColor=white)
+![Shadcn/ui](https://img.shields.io/badge/shadcn/ui-20232A?style=for-the-badge&logo=shadcn/ui&logoColor=white)
 
 ### 📈 GitHub Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=allansionosa&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allansionosa&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allansionosa&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&custom_title=Most%20Used%20Languages&hide=css,html,javascript&langs=typescript,other)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
