@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi there! 👋 I'm Allan Sionosa
 
-<!--
-**allansionosa/allansionosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer working on exciting projects and constantly learning new technologies.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on **Metro Calaca Hospital Corp.**
+- 🌱 I’m learning **Next.js, TypeScript, Tailwind CSS, and Ant Design**
+- 💻 Experienced in **React, Next.js, Vite, CKEditor, Tiptap, and more**
+- 🤝 I’m open to collaborating on **open-source projects and web applications**
+- 💬 Ask me about **full-stack development, UI/UX, and software best practices**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![CKEditor](https://img.shields.io/badge/CKEditor-36A3F7?style=for-the-badge&logo=ckeditor5&logoColor=white)
+![Tiptap](https://img.shields.io/badge/Tiptap-E11D48?style=for-the-badge&logo=tiptap&logoColor=white)
+
+### 📈 GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=allansionosa&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allansionosa&layout=compact&theme=tokyonight&hide_border=true)
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+⚡ **Fun Fact:** I love solving coding challenges and exploring new web technologies!
+
