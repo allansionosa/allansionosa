@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a passionate developer working on exciting pro
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allansionosa&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&custom_title=Most%20Used%20Languages&hide=css,html,javascript&langs=typescript,other)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-profile](https://www.linkedin.com/in/allan-jhon-sionosa-554294242/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allansionosa@gmail.com)
 
 ⚡ **Fun Fact:** I love solving coding challenges and exploring new web technologies!
 
