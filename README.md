@@ -26,5 +26,4 @@ Welcome to my GitHub profile! I'm a passionate developer working on exciting pro
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[your-profile](https://www.linkedin.com/in/allan-jhon-sionosa-554294242/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allansionosa@gmail.com)
 
-⚡ **Fun Fact:** I love solving coding challenges and exploring new web technologies!
 
